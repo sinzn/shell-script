@@ -1,18 +1,17 @@
-Mujeh shell script aati hai 
+Shell script is commbination of shell commands for automation <br>
+ br is just for the break a line to showing the systancx on the git repo <br>
 
-shell script is commbination of shell commands for automation
+First step <br>
+vim filename > i(insert) > esc > :wq(write & quit<br>) 
+chmod 744 filename <br>
+bash file |./filename <br>
 
-First step 
-vim filename > i(insert) > esc > :wq(write & quit) 
-chmod 744 filename 
-bash file |./filename
-
-Second step
-shebang : #!/bin/bash
-echo "" : for text print
-read -p "text" var : read promt and assign var 
-var=name : variable assign
-if
-syntax 
-fi
+Second step <br>
+shebang : #!/bin/bash <br>
+echo "" : for text print <br>
+read -p "text" var : read promt and assign var <br> 
+var=name : variable assign <br>
+if <br>
+syntax <br> 
+fi <br>
 
